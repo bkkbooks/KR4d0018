@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0018_000.yaml, hash: 'sha256:2140b8660225432f597a834a9662c1376faf23c751c6dda79660af9453006409'}
   - {seq: 1, filename: KR4d0018_001.yaml, hash: 'sha256:3dda7468fd5b591423a8b67fda03404fd4f7e6d1a52fb6c6fba264cc7ec02dae'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0018_000.markers.yaml, hash: 'sha256:276fbde87ddd1552365b3bd1d7eb53ab19a0db8a3cf556d9641c8e86d138f6d1'}
-  - {seq: 1, role: markers, filename: assets/KR4d0018_001.markers.yaml, hash: 'sha256:c48358f239d92e9cee50c0f40092547418e5df0f2979c7c9e7c50b5a5c115e6f'}
+  - {seq: 0, role: markers, filename: assets/KR4d0018_000.markers.yaml, hash: 'sha256:9c94b9df7a14700dd9630ec5965d21d933a0ca862e18b519a3b1afb73e21547d'}
+  - {seq: 1, role: markers, filename: assets/KR4d0018_001.markers.yaml, hash: 'sha256:b24e6a750bdb60355d9062fc744d8f5997af2fabeb1be3a40324407b05904e5d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 春卿遺稿
   type: section
   level: 1
-hash: sha256:2d3c2bca5f0c9e723c379902d83f192253de59f7621fb6925d1918fa56e047f9
+hash: sha256:b9dceeb4359efea6804b83c3796757672a18edcd4bcea1a6fe4205e8612cf823
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

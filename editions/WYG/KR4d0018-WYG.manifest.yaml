@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0018_000-WYG.yaml, hash: 'sha256:8dcae9fdb071dd2671dd56c2a550902659cf6ee1df7f8d5918a7846af8b1dda8'}
   - {seq: 1, filename: KR4d0018_001-WYG.yaml, hash: 'sha256:8a8f365995b7bcdfc6c45ad4a1e8557184151b75293bc6371f65b90ae7dcbf4b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0018_000-WYG.markers.yaml, hash: 'sha256:668cc35a3af810916b7fa1d2f4a0b26f3ed289c77c3cf7a174cb2723a6393d42'}
-  - {seq: 1, role: markers, filename: assets/KR4d0018_001-WYG.markers.yaml, hash: 'sha256:9265a1830dd1546b257e87635172dc8d7966fc30d52048f53a39d7bb3d97eee0'}
+  - {seq: 0, role: markers, filename: assets/KR4d0018_000-WYG.markers.yaml, hash: 'sha256:542a4954553c106d2d0370a566069d7c896df188f4a4017e84d244aec0295c8d'}
+  - {seq: 1, role: markers, filename: assets/KR4d0018_001-WYG.markers.yaml, hash: 'sha256:a71ac131d2580e0e2bcea0844098d37641dbcd9c501a2113d1904c10e369d104'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 春卿遺稿
   type: section
   level: 1
-hash: sha256:6f502930a39d583a1cbc0fb1b34fbd6175edf7ce1b63dbdc2a11dc07487ac8b2
+hash: sha256:03999960cb3a6354f7ee33defbdceb91714d2495c87adf1056034732f2a04a45
